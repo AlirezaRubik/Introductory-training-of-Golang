@@ -1,0 +1,173 @@
+Info2024/07/15 18:42:39 Request: {
+  "userId": 1,
+  "id": 1,
+  "title": "delectus aut autem",
+  "completed": false
+} | Response Received
+Info2024/07/15 18:42:39 Task 1 completed
+Info2024/07/15 18:42:40 Request: {
+  "userId": 1,
+  "id": 2,
+  "title": "quis ut nam facilis et officia qui",
+  "completed": false
+} | Response Received
+Info2024/07/15 18:42:40 Task 2 completed
+Info2024/07/15 18:42:40 Request: {
+  "userId": 1,
+  "id": 3,
+  "title": "fugiat veniam minus",
+  "completed": false
+} | Response Received
+Info2024/07/15 18:42:40 Task 3 completed
+Info2024/07/15 18:42:40 Request: {
+  "userId": 1,
+  "id": 4,
+  "title": "et porro tempora",
+  "completed": true
+} | Response Received
+Info2024/07/15 18:42:40 Task 4 completed
+Info2024/07/15 18:42:40 Request: {
+  "userId": 1,
+  "id": 5,
+  "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+  "completed": false
+} | Response Received
+Info2024/07/15 18:42:40 Task 5 completed
+Info2024/07/15 18:42:40 Request: {
+  "userId": 1,
+  "id": 6,
+  "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+  "completed": false
+} | Response Received
+Info2024/07/15 18:42:40 Task 6 completed
+Info2024/07/15 18:42:40 Request: {
+  "userId": 1,
+  "id": 7,
+  "title": "illo expedita consequatur quia in",
+  "completed": false
+} | Response Received
+Info2024/07/15 18:42:40 Task 7 completed
+Info2024/07/15 18:42:41 Request: {
+  "userId": 1,
+  "id": 8,
+  "title": "quo adipisci enim quam ut ab",
+  "completed": true
+} | Response Received
+Info2024/07/15 18:42:41 Task 8 completed
+Info2024/07/15 18:42:41 Request: {
+  "userId": 1,
+  "id": 9,
+  "title": "molestiae perspiciatis ipsa",
+  "completed": false
+} | Response Received
+Info2024/07/15 18:42:41 Task 9 completed
+Info2024/07/15 18:42:41 Request: {
+  "userId": 1,
+  "id": 10,
+  "title": "illo est ratione doloremque quia maiores aut",
+  "completed": true
+} | Response Received
+Info2024/07/15 18:42:41 Task 10 completed
+Info2024/07/15 18:42:41 Request: {
+  "userId": 1,
+  "id": 11,
+  "title": "vero rerum temporibus dolor",
+  "completed": true
+} | Response Received
+Info2024/07/15 18:42:41 Task 11 completed
+Info2024/07/15 18:42:41 Request: {
+  "userId": 1,
+  "id": 12,
+  "title": "ipsa repellendus fugit nisi",
+  "completed": true
+} | Response Received
+Info2024/07/15 18:42:41 Task 12 completed
+Info2024/07/15 18:42:42 Request: {
+  "userId": 1,
+  "id": 13,
+  "title": "et doloremque nulla",
+  "completed": false
+} | Response Received
+Info2024/07/15 18:42:42 Task 13 completed
+Info2024/07/15 18:42:42 Request: {
+  "userId": 1,
+  "id": 14,
+  "title": "repellendus sunt dolores architecto voluptatum",
+  "completed": true
+} | Response Received
+Info2024/07/15 18:42:42 Task 14 completed
+Info2024/07/15 18:42:42 Request: {
+  "userId": 1,
+  "id": 15,
+  "title": "ab voluptatum amet voluptas",
+  "completed": true
+} | Response Received
+Info2024/07/15 18:42:42 Task 15 completed
+Info2024/07/15 18:42:42 Request: {
+  "userId": 1,
+  "id": 16,
+  "title": "accusamus eos facilis sint et aut voluptatem",
+  "completed": true
+} | Response Received
+Info2024/07/15 18:42:42 Task 16 completed
+Info2024/07/15 18:42:42 Request: {
+  "userId": 1,
+  "id": 17,
+  "title": "quo laboriosam deleniti aut qui",
+  "completed": true
+} | Response Received
+Info2024/07/15 18:42:42 Task 17 completed
+Info2024/07/15 18:42:42 Request: {
+  "userId": 1,
+  "id": 18,
+  "title": "dolorum est consequatur ea mollitia in culpa",
+  "completed": false
+} | Response Received
+Info2024/07/15 18:42:42 Task 18 completed
+Info2024/07/15 18:42:43 Request: {
+  "userId": 1,
+  "id": 19,
+  "title": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
+  "completed": true
+} | Response Received
+Info2024/07/15 18:42:43 Task 19 completed
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Index out of range
+Error2024/07/15 18:42:43 Request: Get "Nothing1": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing2": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing3": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing4": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing5": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing6": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing7": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing8": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing9": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing10": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing11": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing12": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing13": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing14": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing15": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing16": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing17": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing18": unsupported protocol scheme "" | Request failed 
+Error2024/07/15 18:42:43 Request: Get "Nothing19": unsupported protocol scheme "" | Request failed 
