@@ -19,6 +19,8 @@ NewMultiInputs(1,2,3,4,5,"ALIREZA","ALIZADEH",'2','c',struct{Id int;Name string;
 //7-
 salary,tax,payment:=CalculateHotelPrice(5,220)
 fmt.Println("Salary: ",salary,"Tax: ",tax,"Payment: ",payment)
+//8-
+InputInt(123,43,76,2523,4124)
 }
 //1-function without any inputs and outputs
 func sayHello(){
@@ -51,6 +53,7 @@ func NewMultiInputs(inputs ...interface{}){
         fmt.Println("The Index is: ",index,"The Item is: ",item)
     }
 }
+
 //7-multi input and multi outputs
 func CalculateHotelPrice(Nights float64,PriceForNight float64)(salary , tax,payment float64){
 	salary=Nights*PriceForNight
@@ -58,4 +61,9 @@ func CalculateHotelPrice(Nights float64,PriceForNight float64)(salary , tax,paym
 	payment=salary+tax
 	return salary,tax,payment
 }
-
+//8-function with many inputs
+func InputInt(inputs ...int){
+	for index,item:=range inputs{
+		fmt.Println("The Index is: ",index,"The Item is: ",item)
+	}
+}
