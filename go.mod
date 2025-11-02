@@ -3,6 +3,7 @@ module informations
 go 1.22.5
 
 require (
+	github.com/go-stack/stack v1.8.1
 	github.com/jalaali/go-jalaali v0.0.0-20210801064154-80525e88d958
 	github.com/rs/zerolog v1.33.0
 )
