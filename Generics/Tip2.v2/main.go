@@ -1,4 +1,4 @@
-package tip2v2
+
 package main
 
 import (
