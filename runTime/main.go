@@ -14,4 +14,6 @@ func main() {
 	fmt.Println(runtime.GOOS)
     //go version
 	fmt.Println(runtime.Version())
+	//how many c codes runing
+	fmt.Println(runtime.NumCgoCall())
 }
